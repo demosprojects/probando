@@ -1,0 +1,299 @@
+[
+    {
+        "id": "ilum1",
+        "titulo": "Corrector y contorno en crema",
+        "precio": 2800.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/corrector.jpg",
+        "categoria": {
+            "id": "ilum",
+            "nombre": "Iluminadores y contornos"
+        }
+    },
+    {
+        "id": "ilum2",
+        "titulo": "Sombra/iluminador Lila D´hermosa",
+        "precio": 3200.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/sombra-iluminador.jpg",
+        "categoria": {
+            "id": "ilum",
+            "nombre": "Iluminadores y contornos"
+        }
+    },
+    {
+        "id": "ilum3",
+        "titulo": "Sombra/iluminador Menta D´hermosa",
+        "precio": 3200.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/sombra-iluminadormenta.jpg",
+        "categoria": {
+            "id": "ilum",
+            "nombre": "Iluminadores y contornos"
+        }
+    },
+    {
+        "id": "ilum4",
+        "titulo": "Sombra/iluminador Durazno D´hermosa",
+        "precio": 3200.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/sombra-iluminadordurazno.jpg",
+        "categoria": {
+            "id": "ilum",
+            "nombre": "Iluminadores y contornos"
+        }
+    },
+    
+    {
+        "id": "base1",
+        "titulo": "Base color acabado Mate",
+        "precio": 20.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/basemate.jpg",
+        "categoria": {
+            "id": "base",
+            "nombre": "Base"
+        }
+    },
+    {
+        "id": "base2",
+        "titulo": "Base color Mate",
+        "precio": 20.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/basematte.jpg",
+        "categoria": {
+            "id": "base",
+            "nombre": "Base"
+        }
+    },
+
+    {
+        "id": "brochas1",
+        "titulo": "Pincel biselado",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/pincelbiselado.jpg",
+        "categoria": {
+            "id": "brochas",
+            "nombre": "Brochas"
+        }
+    },
+    {
+        "id": "brochas2",
+        "titulo": "Brocha",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/brocha.jpg",
+        "categoria": {
+            "id": "brochas",
+            "nombre": "Brochas"
+        }
+    },
+
+    {
+        "id": "delineadores1",
+        "titulo": "Delinedor líquido",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/delineadorliq.jpg",
+        "categoria": {
+            "id": "delineadores",
+            "nombre": "Delineadores"
+        }
+    },
+    {
+        "id": "delineadores2",
+        "titulo": "Delinedor líquido",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/delineador2.jpg",
+        "categoria": {
+            "id": "delineadores",
+            "nombre": "Delineadores"
+        }
+    },
+
+    {
+        "id": "fijador1",
+        "titulo": "Fijador",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/fijador2.jpg",
+        "categoria": {
+            "id": "fijador",
+            "nombre": "Fijador"
+        }
+    },
+    {
+        "id": "fijador2",
+        "titulo": "Fijador",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/fijadordes.jpg",
+        "categoria": {
+            "id": "fijador",
+            "nombre": "Fijador"
+        }
+    },
+
+    {
+        "id": "mascarapes1",
+        "titulo": "Mascara de pestañas",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/mascaradepes1.jpg",
+        "categoria": {
+            "id": "mascarapes",
+            "nombre": "Mascara de pestañas"
+        }
+    },
+    {
+        "id": "mascarapes1",
+        "titulo": "Mascara de pestañas",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/mascaraMc.jpg",
+        "categoria": {
+            "id": "mascarapes",
+            "nombre": "Mascara de pestañas"
+        }
+    },
+
+    {
+        "id": "polvos1",
+        "titulo": "Polvo Traslúcido",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/polvotraslucido.jpg",
+        "categoria": {
+            "id": "polvos",
+            "nombre": "Polvos"
+        }
+    },
+    {
+        "id": "polvos2",
+        "titulo": "Polvo compacto banana",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/polvocompacto.jpg",
+        "categoria": {
+            "id": "polvos",
+            "nombre": "Polvos"
+        }
+    },
+
+    {
+        "id": "rubor1",
+        "titulo": "Rubor en crema",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/ruborencrema.jpg",
+        "categoria": {
+            "id": "rubor",
+            "nombre": "Rubor"
+        }
+    },
+    {
+        "id": "rubor2",
+        "titulo": "Rubor en crema",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/ruborencrema2.jpg",
+        "categoria": {
+            "id": "rubor",
+            "nombre": "Rubor"
+        }
+    },
+
+
+    {
+        "id": "sombras1",
+        "titulo": "Sombras Tango",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/sombrastango.jpg",
+        "categoria": {
+            "id": "sombras",
+            "nombre": "Sombras"
+        }
+    },
+    {
+        "id": "sombras2",
+        "titulo": "Sombras",
+        "precio": 25.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/sombras2.jpg",
+        "categoria": {
+            "id": "sombras",
+            "nombre": "Sombras"
+        }
+    },
+
+    {
+        "id": "arqueadores1",
+        "titulo": "Arqueador de pestañas",
+        "precio": 20.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/arqueador.jpg",
+        "categoria": {
+            "id": "arqueadores",
+            "nombre": "Arqueadores"
+        }
+    },
+    {
+        "id": "arqueadores2",
+        "titulo": "Arqueador de pestañas",
+        "precio": 20.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/arqueador2.jpg",
+        "categoria": {
+            "id": "arqueadores",
+            "nombre": "Arqueadores"
+        }
+    },
+    {
+        "id": "brillosgli1",
+        "titulo": "Polvo de hadas",
+        "precio": 200.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/polvodehadas.jpg",
+        "categoria": {
+            "id": "brillosgli",
+            "nombre": "Brillos/Glitter"
+        }
+    },
+    {
+        "id": "brillosgli2",
+        "titulo": "Polvo ",
+        "precio": 200.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/brillos1.jpg",
+        "categoria": {
+            "id": "brillosgli",
+            "nombre": "Brillos/Glitter"
+        }
+    },
+
+    {
+        "id": "correctores1",
+        "titulo": "Corrector alta cobertura",
+        "precio": 20.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/correctoraltacobertura.jpg",
+        "categoria": {
+            "id": "correctores",
+            "nombre": "Correctores"
+        }
+    },
+    {
+        "id": "correctores2",
+        "titulo": "Corrector D´hermosa",
+        "precio": 20.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/correctordhermosa.jpg",
+        "categoria": {
+            "id": "correctores",
+            "nombre": "Correctores"
+        }
+    
+    },
+
+    {
+        "id": "esponjitas1",
+        "titulo": "Esponjitas",
+        "precio": 1800.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/esponjitas1.jpg",
+        "categoria": {
+            "id": "esponjitas",
+            "nombre": "Esponjitas"
+        }
+    
+    },
+    {
+        "id": "esponjitas2",
+        "titulo": "Esponjitas",
+        "precio": 1800.00,
+        "imagen": "https://raw.githubusercontent.com/demosprojects/productos/main/esponjitas2.jpg",
+        "categoria": {
+            "id": "esponjitas",
+            "nombre": "Esponjitas"
+        }
+    
+    }
+    
+   
+]

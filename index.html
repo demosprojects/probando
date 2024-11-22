@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TabyMakeUp-Tienda Online</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="icon" href="https://raw.githubusercontent.com/demosprojects/productos/main/logo.png" type="image/png">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">TabyMakeUp</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">TabyMakeUp</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                         <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="ilum" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Iluminadores y contornos</button>
+                    </li>
+                    <li>
+                        <button id= "base" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Base</button>
+                    </li>
+                    <li>
+                        <button id="brochas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Brochas</button>
+                    </li>
+                    <li>
+                        <button id="delineadores" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Delineadores</button>
+                    </li>
+                    <li>
+                        <button id="fijador" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Fijador</button>
+                    </li>
+                    <li>
+                        <button id="mascarapes" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Mascara de pestañas</button>
+                    </li>
+                    <li>
+                        <button id="polvos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Polvos</button>
+                    </li>
+                    <li>
+                        <button id="rubor" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Rubor</button>
+                    </li>
+                    <li>
+                        <button id="sombras" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Sombras</button>
+                    </li>
+                    <li>
+                        <button id="arqueadores" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Arqueadores</button>
+                    </li>
+                    <li>
+                        <button id="brillosgli" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Brillos/Glitter</button>
+                    </li>
+                    <li>
+                        <button id="correctores" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Correctores</button>
+                    </li>
+                    <li>
+                        <button id="esponjitas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Esponjitas</button>
+                    </li>
+                    <li>
+                        <button id="labiales" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Labiales</button>
+                    </li>
+                    <li>
+                        <button id="pes/cej" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Pestañas/Cejas</button>
+                    </li>
+                    <li>
+                        <button id="primer" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Primer</button>
+                    </li>
+                    <li>
+                        <button id="skalas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Skalas</button>
+                    </li>
+                    <li>
+                        <button id="skincare" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Skincare</button>
+                    </li>
+                    <li>
+                        <button id="varios" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Varios</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+              
+                <p class="texto-footer">© 2024 TabyMakeUp</p>
+                
+                  
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+    </div>
+   
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="main.js"></script>
+    <script src="menu.js"></script>
+</body>
+</html>
