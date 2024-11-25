@@ -425,7 +425,7 @@ main {
 }
 /* Modificación para habilitar scroll en el menú */
 nav {
-    max-height: 800px; /* Define la altura máxima para el scroll */
+    max-height: 600px; /* Define la altura máxima para el scroll */
     overflow-y: auto; /* Habilita el desplazamiento vertical */
     scrollbar-width: thin; /* Estilo para navegadores compatibles */
     scrollbar-color: var(--clr-main) var(--clr-gray); /* Colores del scroll */
